@@ -50,6 +50,7 @@ __b. Display the row that contains the ‘Model’ of ‘Mazda RX4’.__
 For me to display the row that contains the model of Mazda RX4, I used "c[0:1]." Since we are looking for Mazda RX4 its number is 0 and I used 1 for it to stop before the 2nd row which is number 1
 
 __c. How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?__
+
 ![image](https://github.com/user-attachments/assets/76b1210d-8723-435f-87cf-8252ae6e321b)
 
 To know how many cylinders does the camaro Z28 have is I used c.loc to locate and [23] because Camaro Z28 is the 23rd car in the table. I also inputted ['Model','cyl'] to locate the model name, to know that it is the Camaro Z28 and how many cylinders it has
