@@ -1,7 +1,7 @@
 ## Experiment 3
 ### PYTHON DATA ANALYSIS (PANDAS)
 ##### Amiel Elestin M. Cruz
-##### 3ECE-B
+##### 2ECE-B
 
 ![image](https://github.com/user-attachments/assets/43d556ee-6e0a-4d08-abb4-b8235cb6d48b)
 
